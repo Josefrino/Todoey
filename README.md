@@ -15,6 +15,10 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## Todoey UI
+<img src="https://github.com/Josefrino/Todoey/blob/master/img1.jpg" width="320">
+<img src="https://github.com/Josefrino/Todoey/blob/master/img2.jpg" width="320">
+<img src="https://github.com/Josefrino/Todoey/blob/master/img3.jpg" width="320">
 
 ## What i learned
 * Understand what is state and why we need to manage it.
