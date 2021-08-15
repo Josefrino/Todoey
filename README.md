@@ -1,6 +1,5 @@
-# tenth_project
-
-A new Flutter project.
+# Todo list
+A todolist app to keep track of all your tasks.
 
 ## Getting Started
 
